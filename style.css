@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: black;
+}
+
+h1 {
+  font-family: 'Anton', sans-serif;
+  font-weight: bold;
+  font-size: 100px;
+}
+
+.heading {
+  display: flex;
+  justify-content: center;
+}
+
+#MARVEL {
+  background-color: red;
+  color: white;
+}
+
+ #quotes {
+   color: black;
+   background-color: white;
+ }
+h3 {
+  font-size: 30px;
+  font-family: 'Anton', sans-serif;
+  display: flex;
+  justify-content: center;
+  color: white;
+}
+button {
+  display: inline-block;
+  cursor: pointer;
+  padding: 5px;
+  text-align: center;
+  border: 5px solid red;
+  font-family: 'Anton', sans-serif;
+  font-size: 25px;
+  color: white;
+}
+
+img {
+  height:
+}
